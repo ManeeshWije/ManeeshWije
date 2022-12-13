@@ -12,7 +12,7 @@
 <summary>not important stats</summary>
 <pre>
   <code>
-    Highest Boulder V Grade: V5 (6C+)
+    Highest Boulder Grade: V5 (6C+)
     MonkeyType 10 Word: 204 WPM
     MonkeyType 15s: 159 WPM
     MonkeyType 30s: 142 WPM
