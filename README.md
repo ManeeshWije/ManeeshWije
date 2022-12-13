@@ -1,8 +1,22 @@
-### Hi I'm Maneesh 👋
+![typing](https://media.giphy.com/media/fXZmtuyPCbmPXpE0bE/giphy.gif)
+```
+"The only way to learn a new programming language is by writing programs in it." 
+- Dennis Ritchie 
+```
 
-- 🔭 Currently working on several coding projects but always hacking away at something.
-- 🌱 3rd year student at the University of Guelph for Computer Science.
-- 👯 If you have a project or idea to collaborate on, let me know!
+- 🌱 University of Guelph CS '25
 - 🤔 I'm actively seeking Software Developer internship/coop opportunities
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maneeshwije/) or shoot me an email if you have any questions
 
+<details>
+<summary>not important stats</summary>
+<pre>
+  <code>
+    Highest Boulder V Grade: V5 (6C+)
+    MonkeyType 10 Word: 204 WPM
+    MonkeyType 15s: 159 WPM
+    MonkeyType 30s: 142 WPM
+    MonkeyType 60s: 132 WPM
+  </code>
+</pre>
+</details>
