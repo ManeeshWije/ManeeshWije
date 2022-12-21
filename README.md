@@ -9,14 +9,11 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maneeshwije/) or shoot me an email if you have any questions
 
 <details>
-<summary>not important stats</summary>
+<summary>I'm an avid climber so here are some PB's</summary>
 <pre>
   <code>
-    Highest Boulder Grade: V5 (6C+)
-    MonkeyType 10 Word: 204 WPM
-    MonkeyType 15s: 163 WPM
-    MonkeyType 30s: 145 WPM
-    MonkeyType 60s: 132 WPM
+    Indoor Boulder Grade: V5 (6C+)
+    Outdoor Boulder Grade: N/A (soon)
   </code>
 </pre>
 </details>
