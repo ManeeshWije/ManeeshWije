@@ -6,7 +6,7 @@
 
 - 🌱 University of Guelph CS '25
 - 🤔 I'm actively seeking Software Developer internship/coop opportunities
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maneeshwije/) or shoot me an email if you have any questions
+- 📫 Connect with me on LinkedIn or shoot me an email if you have any questions
 
 <details>
 <summary>I'm an avid climber so here are some PB's</summary>
