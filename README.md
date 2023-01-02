@@ -5,9 +5,7 @@
 - Dennis Ritchie
 ```
 
-<img src="https://media.giphy.com/media/fXZmtuyPCbmPXpE0bE/giphy.gif" alt="typing" width="300px" align="right"/>
-
-<hr>
+<img src="https://media.giphy.com/media/fXZmtuyPCbmPXpE0bE/giphy.gif" alt="typing" width="400px" align="right"/>
 
 - 🌱 University of Guelph CS '25
 - 🤔 I'm actively seeking Software Developer internship/coop opportunities
