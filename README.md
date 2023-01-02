@@ -5,6 +5,7 @@
 - Dennis Ritchie
 ```
 
+<hr>
 <img src="https://media.giphy.com/media/fXZmtuyPCbmPXpE0bE/giphy.gif" alt="typing" width="400px" align="right"/>
 
 - 🌱 University of Guelph CS '25
