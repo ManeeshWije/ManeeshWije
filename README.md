@@ -15,6 +15,7 @@
 
 <details>
   <summary><b>Climbing PB's 🧗🏾</b></summary>
+  <b>All gyms are different so this is relative</b>
 
 ```
   Indoor Boulder Grade: V5 (6C+)
