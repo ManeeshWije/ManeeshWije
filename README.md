@@ -9,5 +9,4 @@
 <hr>
 
 - 🌱 University of Guelph CS '25
-- 🧗🏽 I climb rocks sometimes
 - 👥 [Website](https://www.wijeproject.com) [LinkedIn](https://www.linkedin.com/in/maneeshwije/)
