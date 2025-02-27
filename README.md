@@ -9,4 +9,4 @@
 <hr>
 
 - 🌱 University of Guelph CS '25
-- 👥 [Website](https://www.wijeproject.com) [LinkedIn](https://www.linkedin.com/in/maneeshwije/)
+- 👥 [Website](https://wijeproject.com) [LinkedIn](https://www.linkedin.com/in/maneeshwije/)
